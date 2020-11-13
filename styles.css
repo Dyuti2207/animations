@@ -1,0 +1,33 @@
+
+    
+   .flex-container{
+     display: flex;
+     padding:20px;
+     color: Crimson;
+     justify-content:center;
+     flex-wrap: wrap;
+     background-color: floralwhite;
+     
+     }
+img{
+padding:20px;
+
+height:50%;
+width:20%;
+
+transition: all 1s;
+  
+}
+
+img:hover{
+transform: scale(1.25,1.25);
+}
+
+
+
+ #heading1:hover{
+    transform: scale(1.5,1.5);
+color: darkred;
+}
+h1{ text-align: center;}
+  
